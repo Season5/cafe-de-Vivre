@@ -25,3 +25,15 @@
     padding-bottom: 16px;
     font-size: 25px;
 }
+.bakery{
+    width: 1240px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    font-size: 19px;
+}
+h1,h2,h3{
+    text-align: center;
+}
+h1{
+    font-size: 28px
+}
