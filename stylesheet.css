@@ -17,23 +17,53 @@
     padding: 5px;
     margin: auto;
     text-align: center;
+    color: ghostwhite;
     
 }
 .bitings{
     width: 1240px;
     padding-top: 16px;
     padding-bottom: 16px;
-    font-size: 25px;
+    font-size: 20px;
 }
 .bakery{
     width: 1240px;
     padding-top: 16px;
     padding-bottom: 16px;
-    font-size: 19px;
+    font-size: 20px;
+}
+
+.bakery h1{
+    color: ghostwhite;
 }
 h1,h2,h3{
     text-align: center;
 }
 h1{
     font-size: 28px
+}
+
+body{
+    font-family: IndieFlower;
+    background-color: darkgray;
+}
+.morning{
+    background-color: dimgrey;
+    color: whitesmoke;
+    padding: 25px;
+    font-size: 20px;
+    font-family: IndieFlower;
+}
+.dishes{
+     background-color: dimgrey;
+    color: whitesmoke;
+    padding: 25px;
+    font-size: 20px;
+    font-family: IndieFlower;
+}
+
+footer{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
 }
